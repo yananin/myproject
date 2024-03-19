@@ -1,5 +1,3 @@
-# ruby-cli-template
-
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
-- Ruby version: `3.2.1`
+Pick your dessert CLI project
+A command line interface app to simulate picking your own dessert!
+Run ruby app.rb in the terminal to start
